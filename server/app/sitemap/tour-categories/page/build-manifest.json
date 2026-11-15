@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0cz1d0mv5g_q7.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/35pwqgd853cid.js",
+    "static/chunks/1_b7f5gpp0frb.js",
+    "static/chunks/321hjms_wfim_.js",
+    "static/chunks/2t7v572c5j1u0.js",
+    "static/chunks/3t6i_3lvi_934.js",
+    "static/chunks/turbopack-2u1d16houkiyo.js"
+  ],
+  "pages": {},
+  "ampFirstPages": [],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {
+    "/sitemap/tour-categories/page": {"otherChunks":["static/chunks/35pwqgd853cid.js","static/chunks/1_b7f5gpp0frb.js","static/chunks/321hjms_wfim_.js","static/chunks/2t7v572c5j1u0.js","static/chunks/3t6i_3lvi_934.js"],"runtimeModuleIds":[94553]}
+  },
+  "chunkLoadingGlobal": "TURBOPACK"
+}

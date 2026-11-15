@@ -1,0 +1,35 @@
+{
+  "node": {
+    "70caa90fb459404165e45f4135c49038ee39962142": {
+      "workers": {
+        "app/attractions/page": {
+          "moduleId": 70327,
+          "async": false
+        }
+      },
+      "exportedName": "loginAction",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40f24594211f39b706cd9e650ae192772ff82fe0e9": {
+      "workers": {
+        "app/attractions/page": {
+          "moduleId": 70327,
+          "async": false
+        }
+      },
+      "exportedName": "searchBar",
+      "filename": "src/actions/search.ts"
+    },
+    "40f2c00e51efca9b1874ae0b62a5364fd3cfbf6300": {
+      "workers": {
+        "app/attractions/page": {
+          "moduleId": 70327,
+          "async": false
+        }
+      },
+      "exportedName": "default",
+      "filename": "src/services/attractionsPageService.ts"
+    }
+  },
+  "edge": {}
+}

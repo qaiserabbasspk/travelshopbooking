@@ -1,0 +1,15 @@
+module.exports=[76450,a=>{"use strict";var b=a.i(87924),c=a.i(72131),d=a.i(50944),e=a.i(95940),f=a.i(86300),g=a.i(67740),h=a.i(53416);function i(){let a=(0,d.useSearchParams)(),i=(0,d.useRouter)();return(0,c.useEffect)(()=>{let b=a.get("p"),c=a.get("code"),d=a.get("state")??"/",j=a.get("error"),k=decodeURIComponent(d),l=`/auth/login?returnTo=${encodeURIComponent(k)}`;if(j||!c||!b)return void i.replace(l+`&error=${encodeURIComponent("Sign-in was cancelled.")}`);let m="g"===b?"google":"facebook",n=`${window.location.origin}/auth/callback?p=${b}`;(0,h.apiClient)(`/auth/${m}/callback`,{method:"POST",body:{code:c,redirect_uri:n}}).then(a=>{let b=Array.isArray(a?.user?.roles)?a.user.roles:[],c=b.includes("operator")?"tour operator":b.includes("blogger")?"blogger":null;a?.token&&c?i.replace(l+`&error=${encodeURIComponent(`This is a ${c} account. Please sign in at the TravelShop Business panel: ${g.f.login}`)}`):a?.token?((0,e.setCookie)("auth-token-v3",a.token,{maxAge:31536e3}),(0,e.setCookie)("auth-token",a.token_old,{maxAge:31536e3}),(0,e.setCookie)("user-email",a.user.email,{maxAge:31536e3}),(0,e.setCookie)("user-avatar",a.user.avatar??"",{maxAge:31536e3}),(0,e.setCookie)("user-full-name",a.user.name,{maxAge:31536e3}),(0,e.setCookie)("user-id",a.user.id.toString(),{maxAge:31536e3}),a.user?.roles&&Array.isArray(a.user.roles)&&(0,e.setCookie)("user-role",(0,f.f)(a.user.roles),{maxAge:31536e3}),window.location.href=k||"/"):i.replace(l+`&error=${encodeURIComponent("Sign-in failed. Please try again.")}`)}).catch(()=>{i.replace(l+`&error=${encodeURIComponent("Something went wrong. Please try again.")}`)})},[a,i]),(0,b.jsx)(j,{})}function j(){return(0,b.jsxs)("div",{className:"tw-min-h-screen tw-flex tw-items-start tw-justify-center tw-pt-32 tw-px-4",style:{background:"#faf9fc"},children:[(0,b.jsx)("style",{children:`
+        @keyframes tsb-spin {
+          to { transform: rotate(360deg); }
+        }
+        .tsb-spinner {
+          width: 48px;
+          height: 48px;
+          border-radius: 50%;
+          border: 3px solid #ebe7f0;
+          border-top-color: #854ec9;
+          animation: tsb-spin 0.8s linear infinite;
+        }
+      `}),(0,b.jsx)("div",{className:"tw-w-full tw-max-w-[440px]",children:(0,b.jsx)("div",{className:"tw-bg-white tw-rounded-[20px] tw-p-8",style:{boxShadow:"0 4px 24px rgba(20,16,28,0.08)"},children:(0,b.jsxs)("div",{className:"tw-flex tw-flex-col tw-items-center tw-gap-5 tw-py-4",children:[(0,b.jsx)("div",{className:"tsb-spinner"}),(0,b.jsxs)("div",{className:"tw-text-center",children:[(0,b.jsx)("h1",{className:"tw-text-[22px] tw-font-bold tw-text-[#14101c] tw-mb-1 tw-mt-0",style:{letterSpacing:"-0.02em"},children:"Completing sign-in"}),(0,b.jsx)("p",{className:"tw-text-[14px] tw-text-[#5d556c] tw-m-0",children:"Verifying your account, you'll be redirected in a moment…"})]})]})})})]})}a.s(["default",0,function(){return(0,b.jsx)(c.Suspense,{fallback:(0,b.jsx)(j,{}),children:(0,b.jsx)(i,{})})}])}];
+
+//# sourceMappingURL=src_app_auth_callback_page_tsx_03hdpftdu9bdr._.js.map

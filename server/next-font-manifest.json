@@ -1,0 +1,238 @@
+{
+  "app": {
+    "[project]/src/app/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/_not-found/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/about-us/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/activate/[code]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/after-your-booking/invite/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/after-your-booking/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/after-your-booking/visa/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/attractions/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/attractions/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/auth/callback/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/auth/login/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/auth/reset-password/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/awards/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/black-friday-travel-deals/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/blog/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/blog/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/booking/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/booking/[id]/payment/check/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/booking/[id]/payment/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/booking/[id]/tour/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/cancellation-policy/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/cancellation-policy/peace-mind/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/cancellation-policy/travel-insurance/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/careers/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/checkout/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/contact-us/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/credit-terms/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/daysMagazine/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/deals/legendary-december-travel-deals/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/deals/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/franchise/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/gift-card/custom-gift-card/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/gift-card/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/help-center/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/hotels/[id]/book/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/hotels/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/legal-disclaimer/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/museum/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/museums/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/newsletter/unsubscribe/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/payment-solutions/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/privacy-policy/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/bookings-enquiries/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/credit-details/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/personal-information/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/reviews/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/security-information/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/profile/travel-preferences/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/qr/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/representative/[companyId]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/representative/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/representative/signup/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/review-consultant/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/review-consultant/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/search/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/search/results/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/sitemap/destinations/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/sitemap/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/sitemap/tour-categories/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/sitemap/tours/[page]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/sitemap/tours/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/suppliers/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/suppliers/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/support/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/terms-of-use/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/tour/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/upcoming-events/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/actionOperators/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/climate/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/positiveImpact/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/price-match/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/reviews/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/why-travelshop/sustainability/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/wishlist/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

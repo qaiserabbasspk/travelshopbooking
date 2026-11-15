@@ -1,0 +1,35 @@
+{
+  "node": {
+    "70caa90fb459404165e45f4135c49038ee39962142": {
+      "workers": {
+        "app/daysMagazine/page": {
+          "moduleId": 78440,
+          "async": false
+        }
+      },
+      "exportedName": "loginAction",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40f24594211f39b706cd9e650ae192772ff82fe0e9": {
+      "workers": {
+        "app/daysMagazine/page": {
+          "moduleId": 78440,
+          "async": false
+        }
+      },
+      "exportedName": "searchBar",
+      "filename": "src/actions/search.ts"
+    },
+    "40e9d6d377806a04c053373e2ee468b32df68b148e": {
+      "workers": {
+        "app/daysMagazine/page": {
+          "moduleId": 78440,
+          "async": false
+        }
+      },
+      "exportedName": "getBlogPosts",
+      "filename": "src/services/blog.ts"
+    }
+  },
+  "edge": {}
+}

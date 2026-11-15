@@ -1,0 +1,25 @@
+{
+  "node": {
+    "70caa90fb459404165e45f4135c49038ee39962142": {
+      "workers": {
+        "app/review-consultant/page": {
+          "moduleId": 51260,
+          "async": false
+        }
+      },
+      "exportedName": "loginAction",
+      "filename": "src/app/actions/auth.ts"
+    },
+    "40f24594211f39b706cd9e650ae192772ff82fe0e9": {
+      "workers": {
+        "app/review-consultant/page": {
+          "moduleId": 51260,
+          "async": false
+        }
+      },
+      "exportedName": "searchBar",
+      "filename": "src/actions/search.ts"
+    }
+  },
+  "edge": {}
+}

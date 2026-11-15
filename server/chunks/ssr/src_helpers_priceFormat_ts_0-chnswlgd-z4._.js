@@ -1,0 +1,3 @@
+module.exports=[41864,a=>{"use strict";a.s(["f",0,function({amount:a,currency:b,maximumFractionDigits:c=0}){let d=new Intl.NumberFormat("en-US",{style:"currency",currency:"USD",maximumFractionDigits:c}),e=Intl.NumberFormat("en-DE",{style:"currency",currency:"EUR",maximumFractionDigits:c}),f=Intl.NumberFormat("tr-TR",{style:"currency",currency:"TRY",maximumFractionDigits:c});return"TRY"==b?f.format(a):"USD"==b?d.format(a):"EUR"==b?e.format(a):void 0}])}];
+
+//# sourceMappingURL=src_helpers_priceFormat_ts_0-chnswlgd-z4._.js.map
